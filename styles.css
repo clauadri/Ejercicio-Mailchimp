@@ -132,6 +132,7 @@ input[type=text] {
   input[type=email]:focus {
     border: 1px solid #555;
   }
+
   input[type=password] {
     width: 100%;
     padding: 12px 20px;
@@ -146,6 +147,7 @@ input[type=text] {
   input[type=password]:focus {
     border: 1px solid #555;
   }
+  
   .submit{
     height: 50px;
     width: 150px;
